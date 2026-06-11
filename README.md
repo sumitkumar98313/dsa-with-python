@@ -3,7 +3,7 @@
 > Daily DSA practice in Python | 1-2 problems every day
 
 ![GitHub last commit](https://img.shields.io/github/last-commit/sumitkumar98313/dsa-with-python)
-![Problems Solved](https://img.shields.io/badge/Problems%20Solved-2-brightgreen)
+![Problems Solved](https://img.shields.io/badge/Problems%20Solved-4-brightgreen)
 
 ## 📁 Structure
 
@@ -22,10 +22,13 @@ solutions/
 
 ## 📊 Progress
 
-| #   | Problem           | Topic       | Difficulty | Solution                                           |
-| --- | ----------------- | ----------- | ---------- | -------------------------------------------------- |
-| 1   | Two Sum           | Arrays      | Easy       | [Link](solutions/arrays/two_sum.py)                |
-| 2   | Valid Parentheses | Stack/Queue | Easy       | [Link](solutions/stack_queue/valid_parentheses.py) |
+| #   | Problem                         | Topic       | Difficulty | Solution                                                    |
+| --- | ------------------------------- | ----------- | ---------- | ----------------------------------------------------------- |
+| 1   | Two Sum                         | Arrays      | Easy       | [Link](solutions/arrays/two_sum.py)                         |
+| 2   | Valid Parentheses               | Stack/Queue | Easy       | [Link](solutions/stack_queue/valid_parentheses.             |
+| py) |
+| 3   | Best Time to Buy and Sell Stock | Arrays      | Easy       | [Link](solutions/arrays/best_time_to_buy_and_sell_stock.py) |
+| 4   | Contains Duplicate              | Arrays      | Easy       | [Link](solutions/arrays/contains_duplicate.py)              |
 
 ## 🚀 How I Practice
 
