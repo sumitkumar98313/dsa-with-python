@@ -3,7 +3,7 @@
 > Daily DSA practice in Python | 1-2 problems every day
 
 ![GitHub last commit](https://img.shields.io/github/last-commit/sumitkumar98313/dsa-with-python)
-![Problems Solved](https://img.shields.io/badge/Problems%20Solved-6-brightgreen)
+![Problems Solved](https://img.shields.io/badge/Problems%20Solved-8-brightgreen)
 
 ## 📁 Structure
 
@@ -30,6 +30,8 @@ solutions/
 | 4   | Contains Duplicate              | Arrays      | Easy       | [Link](solutions/arrays/contains_duplicate.py)              |
 | 5   | Maximum Subarray                | Arrays      | Medium     | [Link](solutions/arrays/maximum_subarray.py)                |
 | 6   | Move Zeroes                     | Arrays      | Easy       | [Link](solutions/arrays/move_zeroes.py)                     |
+| 7   | Merge Sorted Array              | Arrays      | Easy       | [Link](solutions/arrays/merge_sorted_array.py)              |
+| 8   | Missing Number                  | Arrays      | Easy       | [Link](solutions/arrays/missing_number.py)                  |
 
 ## 🚀 How I Practice
 
