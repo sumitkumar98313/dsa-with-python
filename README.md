@@ -3,7 +3,7 @@
 > Daily DSA practice in Python | 1-2 problems every day
 
 ![GitHub last commit](https://img.shields.io/github/last-commit/sumitkumar98313/dsa-with-python)
-![Problems Solved](https://img.shields.io/badge/Problems%20Solved-10-brightgreen)
+![Problems Solved](https://img.shields.io/badge/Problems%20Solved-12-brightgreen)
 
 ## 📁 Structure
 
@@ -34,6 +34,8 @@ solutions/
 | 8   | Missing Number                  | Arrays      | Easy       | [Link](solutions/arrays/missing_number.py)                  |
 | 9   | Single Number                   | Arrays      | Easy       | [Link](solutions/arrays/single_number.py)                   |
 | 10  | Plus One                        | Arrays      | Easy       | [Link](solutions/arrays/plus_one.py)                        |
+| 11  | Valid Palindrome                | Strings     | Easy       | [Link](solutions/strings/Valid_Palindrome.py)               |
+| 12  | Reverse String                  | Strings     | Easy       | [Link](solutions/strings/reverse_string.py)                 |
 
 ## 🚀 How I Practice
 
