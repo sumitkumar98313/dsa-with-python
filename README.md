@@ -3,7 +3,7 @@
 > Daily DSA practice in Python | 1-2 problems every day
 
 ![GitHub last commit](https://img.shields.io/github/last-commit/sumitkumar98313/dsa-with-python)
-![Problems Solved](https://img.shields.io/badge/Problems%20Solved-18-brightgreen)
+![Problems Solved](https://img.shields.io/badge/Problems%20Solved-20-brightgreen)
 
 ## 📁 Structure
 
@@ -42,6 +42,8 @@ solutions/
 | 16  | Ransom Note                                        | Strings     | Easy       | [Link](solutions/strings/ransom_note.py)                    |
 | 17  | Valid Anagram                                      | Strings     | Easy       | [Link](solutions/strings/valid_anagram.py)                  |
 | 18  | Length of Last Word                                | Strings     | Easy       | [Link](solutions/strings/length_of_last_word.py)            |
+| 19  | Reverse Linked List                                | Linked List | Easy       | [Link](solutions/linked_list/reverse_linked_list.py)        |
+| 20  | Merge Two Sorted Lists                             | Linked List | Easy       | [Link](solutions/linked_list/merge_two_sorted_lists.py)     |
 
 ## 🚀 How I Practice
 
