@@ -3,7 +3,7 @@
 > Daily DSA practice in Python | 1-2 problems every day
 
 ![GitHub last commit](https://img.shields.io/github/last-commit/sumitkumar98313/dsa-with-python)
-![Problems Solved](https://img.shields.io/badge/Problems%20Solved-26-brightgreen)
+![Problems Solved](https://img.shields.io/badge/Problems%20Solved-28-brightgreen)
 
 ## 📁 Structure
 
@@ -50,6 +50,8 @@ solutions/
 | 24  | Intersection of Two Linked Lists                   | Linked List | Easy       | [Link](solutions/linked_list/intersection_of_two_linked_lists.py) |
 | 25  | Palindrome Linked List                             | Linked List | Easy       | [Link](solutions/linked_list/palindrome_linked_list.py)           |
 | 26  | Remove Linked List Elements                        | Linked List | Easy       | [Link](solutions/linked_list/remove_linked_list_elements.py)      |
+| 27  | Implement Queue using Stacks                       | Stack/Queue | Easy       | [Link](solutions/stack_queue/implement_queue_using_stacks.py)     |
+| 28  | Implement Stack using Queues                       | Stack/Queue | Easy       | [Link](solutions/stack_queue/implement_stack_using_queues.py)     |
 
 ## 🚀 How I Practice
 
