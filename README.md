@@ -3,7 +3,7 @@
 > Daily DSA practice in Python | 1-2 problems every day
 
 ![GitHub last commit](https://img.shields.io/github/last-commit/sumitkumar98313/dsa-with-python)
-![Problems Solved](https://img.shields.io/badge/Problems%20Solved-28-brightgreen)
+![Problems Solved](https://img.shields.io/badge/Problems%20Solved-30-brightgreen)
 
 ## 📁 Structure
 
@@ -52,6 +52,8 @@ solutions/
 | 26  | Remove Linked List Elements                        | Linked List | Easy       | [Link](solutions/linked_list/remove_linked_list_elements.py)      |
 | 27  | Implement Queue using Stacks                       | Stack/Queue | Easy       | [Link](solutions/stack_queue/implement_queue_using_stacks.py)     |
 | 28  | Implement Stack using Queues                       | Stack/Queue | Easy       | [Link](solutions/stack_queue/implement_stack_using_queues.py)     |
+| 29  | Min Stack                                          | Stack/Queue | Medium     | [Link](solutions/stack_queue/min_stack.py)                        |
+| 30  | Daily Temperatures                                 | Stack/Queue | Medium     | [Link](solutions/stack_queue/daily_temperatures.py)               |
 
 ## 🚀 How I Practice
 
