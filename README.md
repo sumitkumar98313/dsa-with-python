@@ -3,7 +3,7 @@
 > Daily DSA practice in Python | 1-2 problems every day
 
 ![GitHub last commit](https://img.shields.io/github/last-commit/sumitkumar98313/dsa-with-python)
-![Problems Solved](https://img.shields.io/badge/Problems%20Solved-35-brightgreen)
+![Problems Solved](https://img.shields.io/badge/Problems%20Solved-37-brightgreen)
 
 ## 📁 Structure
 
@@ -59,6 +59,8 @@ solutions/
 | 33  | Largest Rectangle in Histogram                     | Stack/Queue   | Hard       | [Link](solutions/stack_queue/largest_rectangle_in_histogram.py)   |
 | 34  | Binary Search                                      | Binary Search | Easy       | [Link](solutions/binary_search/binary_search.py)                  |
 | 35  | First Bad Version                                  | Binary Search | Easy       | [Link](solutions/binary_search/first_bad_version.py)              |
+| 36  | Search Insert Position                             | Binary Search | Easy       | [Link](solutions/binary_search/search_insert_position.py)         |
+| 37  | Search a 2D Matrix                                 | Binary Search | Medium     | [Link](solutions/binary_search/search_2d_matrix.py)               |
 
 ## 🚀 How I Practice
 
