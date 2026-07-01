@@ -3,7 +3,7 @@
 > Daily DSA practice in Python | 1-2 problems every day
 
 ![GitHub last commit](https://img.shields.io/github/last-commit/sumitkumar98313/dsa-with-python)
-![Problems Solved](https://img.shields.io/badge/Problems%20Solved-37-brightgreen)
+![Problems Solved](https://img.shields.io/badge/Problems%20Solved-39-brightgreen)
 
 ## 📁 Structure
 
@@ -61,6 +61,8 @@ solutions/
 | 35  | First Bad Version                                  | Binary Search | Easy       | [Link](solutions/binary_search/first_bad_version.py)              |
 | 36  | Search Insert Position                             | Binary Search | Easy       | [Link](solutions/binary_search/search_insert_position.py)         |
 | 37  | Search a 2D Matrix                                 | Binary Search | Medium     | [Link](solutions/binary_search/search_2d_matrix.py)               |
+| 38  | Find Minimum in Rotated Sorted Array               | Binary Search | Medium     | [Link](solutions/binary_search/find_minimum_rotated_array.py)     |
+| 39  | Search in Rotated Sorted Array                     | Binary Search | Medium     | [Link](solutions/binary_search/search_rotated_sorted_array.py)    |
 
 ## 🚀 How I Practice
 
