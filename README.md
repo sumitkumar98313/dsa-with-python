@@ -3,7 +3,7 @@
 > Daily DSA practice in Python | 1-2 problems every day
 
 ![GitHub last commit](https://img.shields.io/github/last-commit/sumitkumar98313/dsa-with-python)
-![Problems Solved](https://img.shields.io/badge/Problems%20Solved-43-brightgreen)
+![Problems Solved](https://img.shields.io/badge/Problems%20Solved-45-brightgreen)
 
 ## 📁 Structure
 
@@ -63,10 +63,12 @@ solutions/
 | 37  | Search a 2D Matrix                                 | Binary Search | Medium     | [Link](solutions/binary_search/search_2d_matrix.py)               |
 | 38  | Find Minimum in Rotated Sorted Array               | Binary Search | Medium     | [Link](solutions/binary_search/find_minimum_rotated_array.py)     |
 | 39  | Search in Rotated Sorted Array                     | Binary Search | Medium     | [Link](solutions/binary_search/search_rotated_sorted_array.py)    |
-| 40  | Maximum Depth of Binary Tree                       | Trees         | Easy       | [Link](solutions/trees/maximum_depth_of_binary_tree.py)           |
+| 40  | Maximum Depth of Binary Tree                       | Trees         | Easy       | [Link](solutions/trees/maximum_depth_binary_tree.py)              |
 | 41  | Invert Binary Tree                                 | Trees         | Easy       | [Link](solutions/trees/invert_binary_tree.py)                     |
 | 42  | Path Sum                                           | Trees         | Easy       | [Link](solutions/trees/path_sum.py)                               |
 | 43  | Subtree of Another Tree                            | Trees         | Easy       | [Link](solutions/trees/subtree_of_another_tree.py)                |
+| 44  | Diameter of Binary Tree                            | Trees         | Easy       | [Link](solutions/trees/diameter_of_binary_tree.py)                |
+| 45  | Balanced Binary Tree                               | Trees         | Easy       | [Link](solutions/trees/balanced_binary_tree.py)                   |
 
 ## 🚀 How I Practice
 
