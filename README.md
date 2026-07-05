@@ -3,7 +3,7 @@
 > Daily DSA practice in Python | 1-2 problems every day
 
 ![GitHub last commit](https://img.shields.io/github/last-commit/sumitkumar98313/dsa-with-python)
-![Problems Solved](https://img.shields.io/badge/Problems%20Solved-45-brightgreen)
+![Problems Solved](https://img.shields.io/badge/Problems%20Solved-47-brightgreen)
 
 ## 📁 Structure
 
@@ -69,6 +69,8 @@ solutions/
 | 43  | Subtree of Another Tree                            | Trees         | Easy       | [Link](solutions/trees/subtree_of_another_tree.py)                |
 | 44  | Diameter of Binary Tree                            | Trees         | Easy       | [Link](solutions/trees/diameter_of_binary_tree.py)                |
 | 45  | Balanced Binary Tree                               | Trees         | Easy       | [Link](solutions/trees/balanced_binary_tree.py)                   |
+| 46  | Binary Tree Level Order Traversal                  | Trees         | Medium     | [Link](solutions/trees/binary_tree_level_order_traversal.py)      |
+| 47  | Symmetric Tree                                     | Trees         | Easy       | [Link](solutions/trees/symmetric_tree.py)                         |
 
 ## 🚀 How I Practice
 
