@@ -3,7 +3,7 @@
 > Daily DSA practice in Python | 1-2 problems every day
 
 ![GitHub last commit](https://img.shields.io/github/last-commit/sumitkumar98313/dsa-with-python)
-![Problems Solved](https://img.shields.io/badge/Problems%20Solved-52-brightgreen)
+![Problems Solved](https://img.shields.io/badge/Problems%20Solved-55-brightgreen)
 
 ## 📁 Structure
 
@@ -77,6 +77,8 @@ solutions/
 | 51  | Number of Islands                                  | Graphs        | Medium     | [Link](solutions/graphs/number_of_islands.py)                     |
 | 52  | Flood Fill                                         | Graphs        | Easy       | [Link](solutions/graphs/flood_fill.py)                            |
 | 53  | 01 Matrix                                          | Graphs        | Medium     | [Link](solutions/graphs/zero_one_matrix.py)                       |
+| 54  | Clone Graph                                        | Graphs        | Medium     | [Link](solutions/graphs/clone_graph.py)                           |
+| 55  | Course Schedule                                    | Graphs        | Medium     | [Link](solutions/graphs/course_schedule.py)                       |
 
 ## 🚀 How I Practice
 
