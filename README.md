@@ -1,11 +1,11 @@
-# DSA with Python 🐍
+# DSA with Python
 
 > Daily DSA practice in Python | 1-2 problems every day
 
 ![GitHub last commit](https://img.shields.io/github/last-commit/sumitkumar98313/dsa-with-python)
-![Problems Solved](https://img.shields.io/badge/Problems%20Solved-55-brightgreen)
+![Problems Solved](https://img.shields.io/badge/Problems%20Solved-57-brightgreen)
 
-## 📁 Structure
+## Structure
 
 solutions/
 ├── arrays/
@@ -20,7 +20,7 @@ solutions/
 ├── recursion_backtracking/
 └── math_bit/
 
-## 📊 Progress
+## Progress
 
 | #   | Problem                                            | Topic         | Difficulty | Solution                                                          |
 | --- | -------------------------------------------------- | ------------- | ---------- | ----------------------------------------------------------------- |
@@ -79,13 +79,15 @@ solutions/
 | 53  | 01 Matrix                                          | Graphs        | Medium     | [Link](solutions/graphs/zero_one_matrix.py)                       |
 | 54  | Clone Graph                                        | Graphs        | Medium     | [Link](solutions/graphs/clone_graph.py)                           |
 | 55  | Course Schedule                                    | Graphs        | Medium     | [Link](solutions/graphs/course_schedule.py)                       |
+| 56  | Rotting Oranges                                    | Graphs        | Medium     | [Link](solutions/graphs/rotting_oranges.py)                       |
+| 57  | Surrounded Regions                                 | Graphs        | Medium     | [Link](solutions/graphs/surrounded_regions.py)                    |
 
-## 🚀 How I Practice
+## How I Practice
 
 - Solve 1-2 problems daily
 - Write clean code with proper comments
 - Always include time & space complexity
 
-## 🔗 Connect
+## Connect
 
 - GitHub: [@sumitkumar98313](https://github.com/sumitkumar98313)
