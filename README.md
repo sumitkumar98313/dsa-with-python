@@ -3,7 +3,7 @@
 > Daily DSA practice in Python | 1-2 problems every day
 
 ![GitHub last commit](https://img.shields.io/github/last-commit/sumitkumar98313/dsa-with-python)
-![Problems Solved](https://img.shields.io/badge/Problems%20Solved-57-brightgreen)
+![Problems Solved](https://img.shields.io/badge/Problems%20Solved-59-brightgreen)
 
 ## Structure
 
@@ -81,6 +81,8 @@ solutions/
 | 55  | Course Schedule                                    | Graphs        | Medium     | [Link](solutions/graphs/course_schedule.py)                       |
 | 56  | Rotting Oranges                                    | Graphs        | Medium     | [Link](solutions/graphs/rotting_oranges.py)                       |
 | 57  | Surrounded Regions                                 | Graphs        | Medium     | [Link](solutions/graphs/surrounded_regions.py)                    |
+| 58  | Pacific Atlantic Water Flow                        | Graphs        | Medium     | [Link](solutions/graphs/pacific_atlantic_water_flow.py)           |
+| 59  | Max Area of Island                                 | Graphs        | Medium     | [Link](solutions/graphs/max_area_of_island.py)                    |
 
 ## How I Practice
 
