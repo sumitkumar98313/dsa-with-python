@@ -3,7 +3,7 @@
 > Daily DSA practice in Python | 1-2 problems every day
 
 ![GitHub last commit](https://img.shields.io/github/last-commit/sumitkumar98313/dsa-with-python)
-![Problems Solved](https://img.shields.io/badge/Problems%20Solved-60-brightgreen)
+![Problems Solved](https://img.shields.io/badge/Problems%20Solved-63-brightgreen)
 
 ## Structure
 
@@ -83,7 +83,10 @@ solutions/
 | 57  | Surrounded Regions                                 | Graphs              | Medium     | [Link](solutions/graphs/surrounded_regions.py)                    |
 | 58  | Pacific Atlantic Water Flow                        | Graphs              | Medium     | [Link](solutions/graphs/pacific_atlantic_water_flow.py)           |
 | 59  | Max Area of Island                                 | Graphs              | Medium     | [Link](solutions/graphs/max_area_of_island.py)                    |
-| 60  | House Robber                                       | Dynamic Programming | Medium     | [Link](solutions/dynamic_programming/house_robber.py)             |
+| 60  | House Robber                                       | Dynamic Programming | Easy       | [Link](solutions/dynamic_programming/house_robber.py)             |
+| 61  | Climbing Stairs                                    | Dynamic Programming | Easy       | [Link](solutions/dynamic_programming/climbing_stairs.py)          |
+| 62  | Min Cost Climbing Stairs                           | Dynamic Programming | Easy       | [Link](solutions/dynamic_programming/min_cost_climbing_stairs.py) |
+| 63  | Coin Change                                        | Dynamic Programming | Medium     | [Link](solutions/dynamic_programming/coin_change.py)              |
 
 ## How I Practice
 
