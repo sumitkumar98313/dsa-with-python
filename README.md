@@ -3,7 +3,7 @@
 > Daily DSA practice in Python | 1-2 problems every day
 
 ![GitHub last commit](https://img.shields.io/github/last-commit/sumitkumar98313/dsa-with-python)
-![Problems Solved](https://img.shields.io/badge/Problems%20Solved-65-brightgreen)
+![Problems Solved](https://img.shields.io/badge/Problems%20Solved-67-brightgreen)
 
 ## Structure
 
@@ -89,6 +89,8 @@ solutions/
 | 63  | Coin Change                                        | Dynamic Programming | Medium     | [Link](solutions/dynamic_programming/coin_change.py)                    |
 | 64  | Longest Increasing Subsequence                     | Dynamic Programming | Medium     | [Link](solutions/dynamic_programming/longest_increasing_subsequence.py) |
 | 65  | Longest Common Subsequence                         | Dynamic Programming | Medium     | [Link](solutions/dynamic_programming/longest_common_subsequence.py)     |
+| 66  | Partition Equal Subset Sum                         | Dynamic Programming | Medium     | [Link](solutions/dynamic_programming/partition_equal_subset_sum.py)     |
+| 67  | Unique Paths                                       | Dynamic Programming | Medium     | [Link](solutions/dynamic_programming/unique_paths.py)                   |
 
 ## How I Practice
 
